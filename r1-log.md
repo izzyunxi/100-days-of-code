@@ -12,3 +12,13 @@ TODO for tmr: Trying out some vscode extensions
 Finished two kata trainings: https://www.codewars.com/kata/545cedaa9943f7fe7b000048; https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 Tried out some vscode extensions
 TODO for tmr: Fixing leetcode-cli installation issue; Redo 2 data challenges from Le Wagon
+
+### R1D3 12.29.2020 Tuesday
+Finished two assessments on datacamp
+TODO: leetcode-cli
+
+### R1D4 12.30.2020 Wednesday
+Fixed leetcode-cli installation by using following lines:
+> npm config set prefix ~/.npm\
+> echo 'export PATH="$HOME/.npm/bin:$PATH"' >> ~/.zshrc\
+#### source: https://medium.com/@ExplosionPills/dont-use-sudo-with-npm-still-66e609f5f92
