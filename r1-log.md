@@ -22,3 +22,13 @@ Fixed leetcode-cli installation by using following lines:
 > npm config set prefix ~/.npm\
 > echo 'export PATH="$HOME/.npm/bin:$PATH"' >> ~/.zshrc\
 #### source: https://medium.com/@ExplosionPills/dont-use-sudo-with-npm-still-66e609f5f92
+
+### R1D5 12.31.2020 Thursday
+Got familiar with vscode
+
+### R1D6 01.01.2021 Friday
+Started leetcode python problems: https://leetcode.com/problems/two-sum/
+Finished one codewars kata training: https://www.codewars.com/kata/550554fd08b86f84fe000a58
+
+### R1D7 01.02.2021 Saturday
+Start advent of code 2020 (missed this fun game, but not too late to play!): https://adventofcode.com/
