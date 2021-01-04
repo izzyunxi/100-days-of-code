@@ -32,3 +32,10 @@ Finished one codewars kata training: https://www.codewars.com/kata/550554fd08b86
 
 ### R1D7 01.02.2021 Saturday
 Start advent of code 2020 (missed this fun game, but not too late to play!): https://adventofcode.com/
+
+### R1D8 01.03.2021 Sunday
+Continued advent of code 2020
+
+### R1D9 01.04.2021 Monday
+Took assessments on LinkedIn
+Continued advent of code 2020
