@@ -39,3 +39,14 @@ Continued advent of code 2020
 ### R1D9 01.04.2021 Monday
 Took assessments on LinkedIn
 Continued advent of code 2020
+
+### R1D10 01.05.2021 Tuesday
+Continued advent of code 2020
+SQL training
+
+### R1D11 01.06.2021 Wednesday
+Continued advent of code 2020
+SQL training
+
+### R1D12 01.07.2021 Thursday
+SQL training
