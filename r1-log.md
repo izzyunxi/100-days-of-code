@@ -50,3 +50,83 @@ SQL training
 
 ### R1D12 01.07.2021 Thursday
 SQL training
+
+### R1D13 01.08.2021 Friday
+Code kata exercises
+
+### R1D14 01.09.2021 Saturday
+SQL training
+
+### R1D15 01.10.2021 Sunday
+SQL training
+
+### R1D16 01.11.2021 Monday
+Code kata exercises
+
+### R1D17 01.12.2021 Tuesday
+SQL training
+
+### R1D18 01.13.2021 Wednesday
+Code kata exercises
+
+### R1D19 01.14.2021 Thursday
+Code kata exercises
+
+### R1D20 01.15.2021 Friday
+SQL training
+Advent of code 2020
+
+### R1D21 01.16.2021 Saturday
+Code kata exercises
+
+### R1D22 01.17.2021 Sunday
+SQL training
+Python refresh
+
+### R1D23 01.18.2021 Monday
+Code kata exercises
+
+### R1D23 01.19.2021 Tuesday
+SQL training
+Advent of code 2020
+
+### R1D24 01.20.2021 Wednesday
+Advent of code 2020
+Code kata
+
+### R1D25 01.21.2021 Thursday
+Code kata
+
+### R1D26 01.22.2021 Friday
+SQL training
+
+### R1D27 01.23.2021 Saturday
+ScrapChef datasets inspect
+
+### R1D28 01.24.2021 Sunday
+SQL training
+
+### R1D29 01.25.2021 Monday
+Python refreshed Hackerrank
+
+### R1D30 01.26.2021 Tuesday
+SQL training
+
+### R1D31 01.27.2021 Wednesday
+SQL training
+
+### R1D32 01.28.2021 Thursday
+SQL & Python training
+
+### R1D33 01.29.2021 Friday
+Advent of code 2020
+Coda kata
+
+### R1D34 01.30.2021 Saturday
+SQL training
+
+### R1D35 01.31.2021 Sunday
+SQL training
+
+### R1D36 02.01.2021 Monday
+ScrapChef datasets cleaning
